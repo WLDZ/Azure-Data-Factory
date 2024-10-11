@@ -114,3 +114,8 @@ Before running the solution, ensure you have the following:
 
 - **Notifications**:
    - A **Logic App** is integrated into the pipeline to send custom error notifications to the admin in case of failures. The message includes details such as the failed activity, error message, and timestamp.
+
+
+ ## Solution
+[Solution](Solution.md)
+
