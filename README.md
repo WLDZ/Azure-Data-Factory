@@ -18,7 +18,7 @@ This repository outlines the problem we will solve and presents the correspondin
 - [Security](#security)
 - [Error Handling and Notifications](#error-handling-and-notifications)
 - [Contributing](#contributing)
-- [License](#license)
+- [Solution](#solution)
 
 ## Architecture Overview
 
